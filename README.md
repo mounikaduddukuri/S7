@@ -14,7 +14,7 @@ Fix the network above:
 
 
 ```
-S5-1
+S7
 Targets:
 1.setup model
 2.Setup learning path 
