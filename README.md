@@ -19,7 +19,7 @@ Targets:
 1.setup model
 2.Setup learning path 
 3. Summarizing the model 
-4. using leaky relu 
+4. using relu 
 5. using the Adam
 Results:
 1. weights , summaries,Trainable params and the accuracy is obtained 
