@@ -11,3 +11,19 @@ Fix the network above:
 7. achieve 80% accuracy, as many epochs as you want. Total Params to be less than 1M. 
 8. upload to Github
 9. Attempt S7-Assignment Solution
+
+
+```
+S5-1
+Targets:
+1.setup model
+2.Setup learning path 
+3. Summarizing the model 
+4. using leaky relu 
+5. using the Adam
+Results:
+1. weights , summaries,Trainable params and the accuracy is obtained 
+Analysis:we can set the model stable and can also underfit by using hyper parametera tuning 
+FileLinks: 
+https://github.com/mounikaduddukuri/S7/blob/master/AssignmentS7.ipynb
+```
